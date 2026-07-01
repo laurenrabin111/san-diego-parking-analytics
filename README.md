@@ -14,7 +14,7 @@ data cleaning through an interactive reporting layer.
 
 ## How It's Built
 
-Data was pulled from two City of San Diego datasets — daily meter
+Data was pulled from two City of San Diego datasets: daily meter
 transactions and meter locations. Each year's transaction file (2023–2026)
 was loaded, cleaned, and typed individually in Power Query, then appended
 into a single fact table. That table was modeled in Power BI as a star
