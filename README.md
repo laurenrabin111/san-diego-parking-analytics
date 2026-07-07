@@ -1,5 +1,8 @@
 # San Diego Parking Meter Revenue Dashboard
 
+![Dashboard Preview](documents/report_screenshot.png)
+
+...
 Interactive Power BI dashboard analyzing daily parking meter revenue across
 San Diego, built on public transaction and location data from the City of
 San Diego Open Data Portal. The project covers the full workflow from raw
