@@ -108,7 +108,7 @@ it shouldn't be compared directly against full prior years
 ```
 sd-parking-meter-revenue-dashboard/
 ├── dashboard/         # .pbix file
-├── documents/               # data model diagram, data dictionary
+├── documents/         # data model diagram, data dictionary
 └── README.md
 ```
 
